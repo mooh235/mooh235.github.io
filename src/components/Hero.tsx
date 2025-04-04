@@ -37,7 +37,7 @@ const Hero = () => {
           <div className="md:w-1/2 flex justify-center mt-10 md:mt-0">
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-gradient-to-r from-primary to-primary/60 absolute -z-10 blur-3xl opacity-20"></div>
-              <img alt="Developer Portrait" className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover border-4 border-primary/20" src="1000470332.jpg" />
+              <img alt="Developer Portrait" className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover border-4 border-primary/20" src="/lovable-uploads/2a5cc300-c03a-4d19-8788-2d60db8c2d03.jpg" />
             </div>
           </div>
         </div>
