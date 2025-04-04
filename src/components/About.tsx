@@ -16,12 +16,12 @@ const About = () => {
               My Journey in Software Development
             </h3>
             <p className="text-muted-foreground mb-4">
-              I'm a passionate software developer with over 5 years of experience
+              I'm a passionate software developer with over 2 months of experience
               building web applications. My journey began with a curiosity about
               how websites work, which led me to pursue a degree in Computer Science.
             </p>
             <p className="text-muted-foreground mb-4">
-              Throughout my career, I've worked with various technologies and frameworks,
+              Throughout my early career, I've worked with various technologies and frameworks,
               always striving to write clean, maintainable code that solves real problems.
               I believe in continuous learning and staying up-to-date with the latest industry trends.
             </p>
