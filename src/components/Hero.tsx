@@ -1,4 +1,3 @@
-
 import { ArrowDown, Github, Linkedin, Twitter } from "lucide-react";
 
 const Hero = () => {
@@ -11,7 +10,7 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 space-y-6 animate-slide-in">
             <h1 className="text-5xl md:text-6xl font-bold">
-              Hi, I'm <span className="text-primary">John Doe</span>
+              Hi, I'm <span className="text-primary">Maureen Kyalo</span>
             </h1>
             <h2 className="text-2xl md:text-3xl font-medium">
               Software Developer
